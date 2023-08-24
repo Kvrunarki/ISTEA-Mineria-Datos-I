@@ -1,0 +1,15 @@
+Data Mining
+El termino explotación de información (Data Mining) es una etapa dentro de un proceso mayor llamado Extracción
+de Conocimiento en Bases de Datos (Knowledge Discovery in Databases o KDD). Lo que en verdad hace la explotación 
+de información es reunir las ventajas de varias áreas como la estadística, la inteligencia artificial, la 
+computación gráfica, las bases de datos y el procesamiento masivo, principalmente usando como materia prima las 
+bases de datos. Una definición tradicional [Fayyad et al, 1996] podría ser la siguiente: “Un proceso no trivial 
+de identificación válida, novedosa, potencialmente útil y entendible, de patrones comprensibles que se encuentran 
+ocultos en los datos”. El creciente volumen de datos en todas las áreas de aplicación humana demanda nuevas y
+poderosas técnicas de transformación de los datos en conocimiento útil. Se puede decir que la explotación de 
+información es un avance en dicha cuestión. Busca generar información similar a la que podría producir un experto 
+humano, que además satisfaga el Principio de Comprensibilidad (utilizar lenguaje adecuado a la temática del 
+trabajo) [Britos et al, 2005]. 
+El objetivo de la explotación de información es descubrir comportamientos interesantes como lo son patrones, 
+asociaciones, cambios, anomalías y estructuras significativas a partir de grandes cantidades de datos almacenados 
+en bases de datos, data warehouses o cualquier otro medio de almacenamiento de información [Britos et Al, 2005].
